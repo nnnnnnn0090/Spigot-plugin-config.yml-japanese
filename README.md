@@ -1,0 +1,1 @@
+# Spigot-plugin-config.yml-japanese
